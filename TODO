@@ -1,0 +1,28 @@
+A. SIDEBAR (left side slide)
+
+B. HOMEPAGE
+        a.Name
+        b.ShortCut & LastUpdate
+        c.Upcomming Events
+
+C. TASKs
+        FEATURES: Task name, status, due, priority
+        IDEA: status can be changed & filtered, due date can be changed, priority can be filtered.
+                Tasks will be distibuted and sub task will be near.
+    1. By projects
+    2. All TASKs:- add a new task, add a new project, course & a task inside a task and inside a task.
+
+D. WATCH
+        IDEA: Only Support Link as Input, button to add a new input,
+            delete button, right side button to make it watched/not-watched
+    a. Watch later
+    b. Watched
+
+E. FINANCE
+        IDEA: Personal Finance Tracker, Saving graph, IncomeBreakdown, ExpenceBreakdown
+
+F. READING LIST
+
+G. HEALTH
+
+H. Profile
