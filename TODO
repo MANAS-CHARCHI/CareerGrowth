@@ -37,7 +37,9 @@ BACKEND:-
                 4. Career and goal Planning:- future palning start and end date, future/recdnt planning,
                 5. Reading/watching DB:- reading list, watch list, 
                 6. Connection DB:- 
-                7. FINSIH list DB
+                7. Save thoughts(one line) DB
+                8. Write your day[Diary] (DB)
+                8. FINSIH list DB
 DEPOYMENT AND CI:-
         USE of:-
                 EC2, C3, CloudFront, Nginx, DOCKER, K8, Godaddy, Jenkins
