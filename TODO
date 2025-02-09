@@ -1,28 +1,44 @@
-A. SIDEBAR (left side slide)
+FRONTEND:-
+        A. SIDEBAR (left side slide)
+                Before login/registrations page
+        B. HOMEPAGE
+                a.Name
+                b.ShortCut & LastUpdate
+                c.Upcomming Events
 
-B. HOMEPAGE
-        a.Name
-        b.ShortCut & LastUpdate
-        c.Upcomming Events
+        C. TASKs
+                FEATURES: Task name, status, due, priority
+                IDEA: status can be changed & filtered, due date can be changed, priority can be filtered.
+                        Tasks will be distibuted and sub task will be near.
+        1. By projects
+        2. All TASKs:- add a new task, add a new project, course & a task inside a task and inside a task.
 
-C. TASKs
-        FEATURES: Task name, status, due, priority
-        IDEA: status can be changed & filtered, due date can be changed, priority can be filtered.
-                Tasks will be distibuted and sub task will be near.
-    1. By projects
-    2. All TASKs:- add a new task, add a new project, course & a task inside a task and inside a task.
+        D. WATCH
+                IDEA: Only Support Link as Input, button to add a new input,
+                delete button, right side button to make it watched/not-watched
+        a. Watch later
+        b. Watched
 
-D. WATCH
-        IDEA: Only Support Link as Input, button to add a new input,
-            delete button, right side button to make it watched/not-watched
-    a. Watch later
-    b. Watched
+        E. FINANCE
+                IDEA: Personal Finance Tracker, Saving graph, IncomeBreakdown, ExpenceBreakdown
 
-E. FINANCE
-        IDEA: Personal Finance Tracker, Saving graph, IncomeBreakdown, ExpenceBreakdown
+        F. READING LIST
 
-F. READING LIST
+        G. HEALTH
 
-G. HEALTH
+        H. Profile
 
-H. Profile
+BACKEND:-
+        A. DATABASE:-
+                1. USER DB:- Login, Signin, JWT token, Access Token, Refresh Token
+                2. TASK DB:- Task Management, Predefined tasks page, user-task page, task of task(subtask) DB,
+                                completion of task, deadline of task, 
+                3. Finance DB:- incomes, expence, targets, savings, future planing, all graphs
+                4. Career and goal Planning:- future palning start and end date, future/recdnt planning,
+                5. Reading/watching DB:- reading list, watch list, 
+                6. Connection DB:- 
+                7. FINSIH list DB
+DEPOYMENT AND CI:-
+        USE of:-
+                EC2, C3, CloudFront, Nginx, DOCKER, K8, Godaddy, Jenkins
+                REACT, Django, Postgres, Tailwind
