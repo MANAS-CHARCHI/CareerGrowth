@@ -1,3 +1,4 @@
+Project name:- AllSet – Plan. Organize. Execute.
 FRONTEND:-
         A. SIDEBAR (left side slide)
                 Before login/registrations page
@@ -27,6 +28,8 @@ FRONTEND:-
         G. HEALTH
 
         H. Profile
+
+        I. IMPORTANT:- A PASSWORD SAVING PAGE (this is a section which is itself locked- open by a master password.)
 
 BACKEND:-
         A. DATABASE:-
